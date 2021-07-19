@@ -1,0 +1,6 @@
+name: McOres
+version: ${project.version}
+main: com.redspeaks.mcores.McOres
+commands:
+  mines:
+    description: main command
